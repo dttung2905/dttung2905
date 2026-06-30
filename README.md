@@ -6,9 +6,20 @@
 - 🔭 I use Kafka, Terraform, Kubernetes, Go, Rust
 - ⚡ Fun fact: I love swimming, running and table tennis
 
-<h2 align='center'>
-  📊 GitHub Stats 📊
-</h2>
-<p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dttung2905&count_private=true&show_icons=true&hide_rank=true" />&nbsp;&nbsp;
-</p>
+## PR Contributions
+
+<div align="center">
+
+<!-- CONTRIBUTIONS_START -->
+| Project | Repo | Merged | Open |
+|---------|------|-------:|-----:|
+| **KEDA** | [kedacore/keda](https://github.com/kedacore/keda) | 42 | 1 |
+| | [kedacore/keda-docs](https://github.com/kedacore/keda-docs) | 10 | 0 |
+| **Apache Iceberg** | [apache/iceberg-go](https://github.com/apache/iceberg-go) | 32 | 1 |
+| | [apache/terraform-provider-iceberg](https://github.com/apache/terraform-provider-iceberg) | 4 | 2 |
+| **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 16 | 2 |
+
+_Updated: 2026-06-30_
+<!-- CONTRIBUTIONS_END -->
+
+</div>
