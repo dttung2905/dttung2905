@@ -17,9 +17,9 @@
 |  | [kedacore/keda-docs](https://github.com/kedacore/keda-docs) | 10 | 0 |
 | **Apache Iceberg** | [apache/iceberg-go](https://github.com/apache/iceberg-go) | 32 | 1 |
 |  | [apache/terraform-provider-iceberg](https://github.com/apache/terraform-provider-iceberg) | 5 | 2 |
-| **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 18 | 3 |
+| **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 19 | 2 |
 
-_Updated: 2026-07-23_
+_Updated: 2026-07-24_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
