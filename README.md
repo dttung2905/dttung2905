@@ -19,7 +19,7 @@
 |  | [apache/terraform-provider-iceberg](https://github.com/apache/terraform-provider-iceberg) | 5 | 2 |
 | **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 19 | 2 |
 
-_Updated: 2026-07-26_
+_Updated: 2026-07-27_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
