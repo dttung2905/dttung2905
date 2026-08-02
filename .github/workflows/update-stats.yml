@@ -33,6 +33,7 @@ jobs:
               ]),
               ("KAI Scheduler", [
                   "kai-scheduler/KAI-Scheduler",
+                  "Project-HAMi/KAI-resource-isolator",
               ]),
           ]
 
