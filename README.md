@@ -18,9 +18,9 @@
 | **Apache Iceberg** | [apache/iceberg-go](https://github.com/apache/iceberg-go) | 32 | 1 |
 |  | [apache/terraform-provider-iceberg](https://github.com/apache/terraform-provider-iceberg) | 5 | 1 |
 | **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 20 | 2 |
-|  | [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 0 | 4 |
+|  | [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 4 | 0 |
 
-_Updated: 2026-08-03_
+_Updated: 2026-08-04_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
