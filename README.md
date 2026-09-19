@@ -13,14 +13,14 @@
 <!-- CONTRIBUTIONS_START -->
 | Project | Repo | Merged | Open |
 |---------|------|-------:|-----:|
-| **KEDA** | [kedacore/keda](https://github.com/kedacore/keda) | 43 | 1 |
+| **KEDA** | [kedacore/keda](https://github.com/kedacore/keda) | 44 | 0 |
 |  | [kedacore/keda-docs](https://github.com/kedacore/keda-docs) | 10 | 1 |
 | **Apache Iceberg** | [apache/iceberg-go](https://github.com/apache/iceberg-go) | 32 | 0 |
 |  | [apache/terraform-provider-iceberg](https://github.com/apache/terraform-provider-iceberg) | 5 | 1 |
 | **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 26 | 2 |
 |  | [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 4 | 1 |
 
-_Updated: 2026-09-18_
+_Updated: 2026-09-19_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
