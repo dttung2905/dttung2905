@@ -20,7 +20,7 @@
 | **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 26 | 3 |
 |  | [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 4 | 0 |
 
-_Updated: 2026-09-28_
+_Updated: 2026-09-29_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
