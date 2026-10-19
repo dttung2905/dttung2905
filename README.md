@@ -16,11 +16,11 @@
 | **KEDA** | [kedacore/keda](https://github.com/kedacore/keda) | 44 | 0 |
 |  | [kedacore/keda-docs](https://github.com/kedacore/keda-docs) | 11 | 1 |
 | **Apache Iceberg** | [apache/iceberg-go](https://github.com/apache/iceberg-go) | 32 | 0 |
-|  | [apache/terraform-provider-iceberg](https://github.com/apache/terraform-provider-iceberg) | 6 | 1 |
+|  | [apache/terraform-provider-iceberg](https://github.com/apache/terraform-provider-iceberg) | 6 | 2 |
 | **KAI Scheduler** | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 26 | 3 |
 |  | [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 4 | 0 |
 
-_Updated: 2026-10-18_
+_Updated: 2026-10-19_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
